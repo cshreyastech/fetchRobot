@@ -1,0 +1,8 @@
+prefix=/home/cstx2/fetchRobot/catkin_ws/install
+
+Name: fetch_train
+Description: Description of fetch_train
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy
